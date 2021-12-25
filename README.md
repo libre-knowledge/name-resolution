@@ -15,6 +15,7 @@
 
 ## 參考資料
 
+* [Name resolution (computer systems) - Wikipedia](https://en.wikipedia.org/wiki/Name_resolution_(computer_systems))
 * [Zero-configuration networking - Wikipedia](https://en.wikipedia.org/wiki/Zero-configuration_networking#Name_service_discovery)
 
 ---
