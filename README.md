@@ -9,7 +9,7 @@
 
 以下列舉本主題相關的解決方案：
 
-* 網域名稱系統 Domain Name System(DNS)  
+* [網域名稱系統 Domain Name System(DNS)](https://gitlab.com/libre-knowledge/dns)  
   保存域名和 IP 地址的一個對應資訊並提供解析器(resolver)查詢的分散式系統
 * Multicast DNS(mDNS)  
   基於封包群播(multicast)技術方便同一線路連結的主機能夠透過主機名稱發現各自之服務的零配置(Zero-configuration)名稱解析系統
