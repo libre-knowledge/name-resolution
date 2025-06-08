@@ -1,3 +1,12 @@
+# Git submodule definition file
+#
+# Reference:
+#
+# * Git - gitmodules Documentation
+#   https://git-scm.com/docs/gitmodules
+#
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "網域名稱系統 Domain Name System(DNS)"]
 	path = 網域名稱系統 Domain Name System(DNS)
 	url = https://github.com/libre-knowledge/dns.git
