@@ -9,5 +9,5 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "網域名稱系統 Domain Name System(DNS)"]
 	path = 網域名稱系統 Domain Name System(DNS)
-	url = https://github.com/libre-knowledge/dns.git
+	url = https://gitlab.com/libre-knowledge/dns.git
 	ignore = dirty
